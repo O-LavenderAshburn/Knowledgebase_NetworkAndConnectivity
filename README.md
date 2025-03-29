@@ -1,29 +1,17 @@
-# Knowledgebase_NetworkAndConnectivity
+# Network & Connectivity Knowledge Base
 
-This wiki serves as a comprehensive resource on network and connectivity concepts, technologies, and best practices. It covers fundamental and advanced topics related to networking, communication protocols, and infrastructure.
+The **Network & Connectivity Knowledge Base** serves as a comprehensive resource covering networking concepts, technologies, and best practices. It includes both fundamental and advanced topics related to networking, communication protocols, and infrastructure. 
+
+The content explores key networking principles, such as **networking basics**, **network protocols** like IP, TCP & UDP, DNS & DHCP, and HTTP/HTTPS, as well as **Network Address Translation (NAT)**. It also delves into **wired and wireless technologies**, including Ethernet standards, Wi-Fi (802.11 standards), Bluetooth, and BLE. 
+
+Additionally, the knowledge base covers **internal routing mechanisms** like OSPF (Open Shortest Path First) and MAC addresses, along with **external routing topics**, such as BGP (Border Gateway Protocol) and Autonomous Systems.
+
+The knowledge base is available in the [Wiki](https://github.com/O-LavenderAshburn/Knowledgebase_NetworkAndConnectivity/wiki)
 
 
-1. Networking Introduction
-  - What is Networking?
+### Author
+Written by Oscar Ashburn
 
-2. Network Protocols
-  - IP
-  - TCP & UDP
-  - DNS & DHCP
-  - HTTP/HTTPS
+Bachelor of Computer Science, University of Waikato,
 
-3. NAT: Network Address Translation
-   
-4. Wireless & Wired Technologies
-  - Ethernet Standards
-  - Wi-Fi (802.11 standards)
-  - Bluetooth & BLE
-
-5. Internal Routing
-   - OSPF: Open Shortest Path First
-   - MAC addresses
-
-6. External Routing
-   - BGP: Border Gate Policy
-   - Autonomous Systems
-
+Current Masters of Computer Science Victoria University of Wellington.
